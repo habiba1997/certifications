@@ -8,8 +8,3 @@ PDF and JPG certificates covering Java multithreading, Apache Camel, Maven, Jenk
 
 These documents record completed training; this repository contains no application source code. Both original filenames for the Python certificate are retained.
 
-## Technologies and use
-
-Open the PDF files in any PDF reader and `learn-testng.jpg` in an image viewer. No installation, dependencies, or run commands are required.
-
-The unrelated local `bishoy edge influx` reference folder is excluded from this repository.
